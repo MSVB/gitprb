@@ -1,0 +1,11 @@
+C:\Users\Viraj\Source\Repos\gitprb\gitprb\bin\Debug\netcoreapp2.0\gitprb.deps.json
+C:\Users\Viraj\Source\Repos\gitprb\gitprb\bin\Debug\netcoreapp2.0\gitprb.runtimeconfig.json
+C:\Users\Viraj\Source\Repos\gitprb\gitprb\bin\Debug\netcoreapp2.0\gitprb.runtimeconfig.dev.json
+C:\Users\Viraj\Source\Repos\gitprb\gitprb\bin\Debug\netcoreapp2.0\gitprb.dll
+C:\Users\Viraj\Source\Repos\gitprb\gitprb\bin\Debug\netcoreapp2.0\gitprb.pdb
+C:\Users\Viraj\Source\Repos\gitprb\gitprb\obj\Debug\netcoreapp2.0\gitprb.csprojAssemblyReference.cache
+C:\Users\Viraj\Source\Repos\gitprb\gitprb\obj\Debug\netcoreapp2.0\gitprb.csproj.CoreCompileInputs.cache
+C:\Users\Viraj\Source\Repos\gitprb\gitprb\obj\Debug\netcoreapp2.0\gitprb.AssemblyInfoInputs.cache
+C:\Users\Viraj\Source\Repos\gitprb\gitprb\obj\Debug\netcoreapp2.0\gitprb.AssemblyInfo.cs
+C:\Users\Viraj\Source\Repos\gitprb\gitprb\obj\Debug\netcoreapp2.0\gitprb.dll
+C:\Users\Viraj\Source\Repos\gitprb\gitprb\obj\Debug\netcoreapp2.0\gitprb.pdb
